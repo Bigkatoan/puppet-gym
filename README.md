@@ -18,8 +18,8 @@ The environment requires a working ROS2 installation (Humble, Iron, etc.) and Py
 
 1.  **Clone the repository (if applicable):**
     ```bash
-    git clone https://github.com/Bigkatoan/puppet_env.git
-    cd puppet_env
+    git clone https://github.com/Bigkatoan/puppet-gym.git
+    cd puppet-gym
     ```
 
 2.  **Install Python dependencies:**
