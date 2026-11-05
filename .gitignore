@@ -7,3 +7,7 @@ train/edge_autoencoder.pth
 train/pose_network.pth
 __pycache__
 .ipynb_checkpoints
+*.pth
+train/phase1_dataset/
+__pycache__/
+.ipynb_checkpoints/
